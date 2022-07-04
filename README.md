@@ -25,3 +25,12 @@
 
 <br><br>
 ## Admin Pages : 
+![Screenshot 2022-07-04 233336](https://user-images.githubusercontent.com/89250504/177202901-7550ed98-b050-47b9-85b0-c74502ef1ffb.png)
+![Screenshot 2022-07-04 234102](https://user-images.githubusercontent.com/89250504/177202912-4d5a09db-9025-43e1-a34d-6b415d68878b.png)
+![Screenshot 2022-07-04 234141](https://user-images.githubusercontent.com/89250504/177202926-c78c9aea-ba34-4862-9073-eb71d7d216d5.png)
+![Screenshot 2022-07-04 234402](https://user-images.githubusercontent.com/89250504/177202942-f89278b8-d7a7-4390-b497-27794d521497.png)
+![Screenshot 2022-07-04 234516](https://user-images.githubusercontent.com/89250504/177202954-33bf5daf-4cd3-4df4-9014-e5b54b081ef3.png)
+
+![Screenshot 2022-07-04 234556](https://user-images.githubusercontent.com/89250504/177203043-a560ea94-6fad-4981-947e-0492afc8f4c5.png)
+
+![Screenshot 2022-07-04 234644](https://user-images.githubusercontent.com/89250504/177203062-a8e887f5-9af8-4b87-906b-64d75bd66ec0.png)
