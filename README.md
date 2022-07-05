@@ -27,7 +27,7 @@
 ![Screenshot 2022-07-04 232835](https://user-images.githubusercontent.com/89250504/177201329-1ec4eed0-4fec-4ae6-877e-c4947eb53d38.png)
 
 <br><br>
-## Admin Pages : 
+# Admin Pages : 
 ![Screenshot 2022-07-04 233336](https://user-images.githubusercontent.com/89250504/177202901-7550ed98-b050-47b9-85b0-c74502ef1ffb.png)
 ![Screenshot 2022-07-04 234102](https://user-images.githubusercontent.com/89250504/177202912-4d5a09db-9025-43e1-a34d-6b415d68878b.png)
 ![Screenshot 2022-07-04 234141](https://user-images.githubusercontent.com/89250504/177202926-c78c9aea-ba34-4862-9073-eb71d7d216d5.png)
