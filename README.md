@@ -1,8 +1,8 @@
 # Anshul-s_Shop
 
-## • Anshul-s_Shop is a fully authenticated eCommerce website.
-## • Admin functionalities like create product, change user role etc and payment support with stripe.
-## • Build using MERN Stack , Material-UI and other npm packages.
+### • Anshul-s_Shop is a fully authenticated eCommerce website.
+### • Admin functionalities like create product, change user role etc and payment support with stripe.
+### • Build using MERN Stack , Material-UI and other npm packages.
 
 ![Screenshot 2022-07-04 224653](https://user-images.githubusercontent.com/89250504/177197451-6f868898-e1c1-47a1-a88d-a6f2dbe607bb.png)
 ![Screenshot 2022-07-04 225017](https://user-images.githubusercontent.com/89250504/177197740-ee845d40-5ca6-44b9-bb32-56017fe07827.png)
